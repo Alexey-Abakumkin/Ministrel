@@ -26,7 +26,7 @@ optional arguments:
 
 ## Example
 
-Input file:
+Input file ([link](https://raw.githubusercontent.com/Alexey-Abakumkin/Ministrel/master/example/song.txt)):
 
 ```
 So you run and you run to catch up with the sun but it's sinking
@@ -46,4 +46,4 @@ I like to be here
 When I can
 ```
 
-Output: [presentation](link)
+Output: [presentation](https://github.com/Alexey-Abakumkin/Ministrel/blob/master/example/time.pptx?raw=true)
